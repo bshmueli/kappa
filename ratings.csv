@@ -1,1 +1,13 @@
-
+Student,Professor A, Professor B
+1, Accept, Accept
+2, Accept, Waiting List
+3, Waiting List, Reject
+4, Reject, Reject
+5, Reject, Accept
+6, Reject, Reject
+7, Waiting List, Waiting List
+8, Waiting List, Accept
+9, Reject, Waiting List
+10, Reject, Reject
+11, Accept, Accept
+12, Waiting List, Waiting List
